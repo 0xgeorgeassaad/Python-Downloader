@@ -1,4 +1,4 @@
-# Python-Downloader
+# Python Downloader
 
 ## Required libraries
 - `PyQt`  installtion : `pip3 install pyqt5`.
