@@ -19,13 +19,12 @@
 ## Testing on any Linux distro or Mac
 ```
 python3 index.py
-
 ```
 
 You can check [PyQt website](http://pyqt.sourceforge.net/Docs/PyQt5/installation.html) and 
 [Pafy website](http://pythonhosted.org/Pafy/) for more info.
 
 
-** Made with :heart: by George Assad. **
+**Made with :heart: by George Assad.**
 
-> *This is intended to be a [CS50]() Final project*
+> *This is intended to be a [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) Final project*
